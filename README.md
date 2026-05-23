@@ -250,7 +250,7 @@ podman push docker.io/<your-username>/mtcars-ml-api:latest
 
 ## Deployed API URL
 
-`https://https://mtcars-ml-api-472381907479.us-central1.run.app/predict`
+`https://mtcars-ml-api-472381907479.us-central1.run.app/predict`
 
 ---
 
